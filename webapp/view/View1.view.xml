@@ -6,21 +6,14 @@
 					<content>
 						<Text text="Nueva rama de desarrollo"/>
 						<Text text="Modifico desde NO everis desarrollo 2"/>
-
 						<Text text="Ahora añado esta linea desde everis"/>
 						<Text text="Ahora añado esta linea desde NO everis"/>
-						<!--New mo  d-->
 						<Text text="Ahora añado/modifico esta linea desde everis "/>
-							<Text text="Otra linea"/>
-
+						<Text text="Otra linea"/>
 						<Text text="Ahora añado/modifico esta linea desde everis sin hacer un pull"/>
-<<<<<<< HEAD
-							<Text text="Ahora añado/modifico esta linea desde everis"/>
-
-=======
-							<Text text="Ahora añado/modifico esta linea desde everis "/>
-							<Text text="Ahora añado/modifico esta linea desde everis 2222"/>
->>>>>>> refs/remotes/origin/devRemote
+						<Text text="Ahora añado/modifico esta linea desde everis"/>
+						<Text text="Ahora añado/modifico esta linea desde everis "/>
+						<Text text="Ahora añado/modifico esta linea desde everis 2222"/>
 					</content>
 				</Page>
 			</pages>
