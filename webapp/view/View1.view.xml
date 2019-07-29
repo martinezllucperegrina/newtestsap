@@ -5,7 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Text text="Nueva rama de desarrollo"/>
-						<Text text="2rama de desarrollo 2"/>
+						<Text text="2 rama de desarrollo 2"/>
 					</content>
 				</Page>
 			</pages>
