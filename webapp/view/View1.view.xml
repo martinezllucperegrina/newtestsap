@@ -9,7 +9,8 @@
 						<Text text="Ahora añado esta linea desde everis"/>
 						<Text text="Ahora añado esta linea desde NO everis"/>
 						<!--New mo  d-->
-						<Text text="Ahora añado/modifico esta linea desde everis"/>
+						<Text text="Ahora añado/modifico esta linea desde everis "/>
+							<Text text="Otra linea"/>
 					</content>
 				</Page>
 			</pages>
