@@ -7,8 +7,10 @@
 						<Text text="Nueva rama de desarrollo"/>
 						<Text text="Modifico desde NO everis desarrollo 2"/>
 						<Text text="Ahora añado/modifico esta linea desde everis sin hacer un pull"/>
-							<Text text="Ahora añado/modifico esta linea desde everis "/>
+							<Text text=";odificada"/>
 							<Text text="Ahora añado/modifico esta linea desde everis 2222"/>
+							
+							<Text text="Pongo nuevas lineas sin haber hecho un pull y modifico anteriores"/>
 					</content>
 				</Page>
 			</pages>
