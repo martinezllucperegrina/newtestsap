@@ -5,7 +5,11 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Text text="Nueva rama de desarrollo"/>
+<<<<<<< HEAD
 						<Text text="2 rama de desarrollo 2"/>
+=======
+						<Text text="rama de desarrollo 2"/>
+>>>>>>> refs/remotes/origin/devRemote
 					</content>
 				</Page>
 			</pages>
