@@ -11,16 +11,10 @@
 						<Text text="Ahora añado/modifico esta linea desde everis "/>
 						<Text text="Otra linea"/>
 						<Text text="Ahora añado/modifico esta linea desde everis sin hacer un pull"/>
-<<<<<<< HEAD
 							<Text text=";odificada"/>
 							<Text text="Ahora añado/modifico esta linea desde everis 2222"/>
 							
 							<Text text="Pongo nuevas lineas sin haber hecho un pull y modifico anteriores"/>
-=======
-						<Text text="Ahora añado/modifico esta linea desde everis"/>
-						<Text text="Ahora añado/modifico esta linea desde everis "/>
-						<Text text="Ahora añado/modifico esta linea desde everis 2222"/>
->>>>>>> refs/remotes/origin/devRemote
 					</content>
 				</Page>
 			</pages>
